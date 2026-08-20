@@ -5,7 +5,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { Check, ChevronRight, Copy, Github, Menu, Moon, Search, Sun, X } from 'lucide-react';
 import MermaidDiagram from './components/MermaidDiagram';
 
-const repo = 'https://github.com/VishalChoubey1019/incident-analyzer';
+const repo = 'https://github.com/Harshi-max/Incident_Analyzer';
 
 type Section = { id: string; label: string; group: string };
 const sections: Section[] = [
